@@ -1,4 +1,4 @@
-## Links to repositories of the 2018 projects
+## Links to the repositories of the fall 2018 projects
 
 1. [Actify](https://github.com/RohanNg/pimap-mobile)
 2. [Chatbot HAHAE](https://github.com/Apollina/InnovationProject)
