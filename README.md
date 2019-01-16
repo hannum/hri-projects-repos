@@ -1,4 +1,4 @@
-## Links to source code reops of the year 2018 HRI innovation projects
+## Links to source code repos of the year 2018 HRI innovation projects
 
 1. [Actify](https://github.com/RohanNg/pimap-mobile)
 2. [Chatbot HAHAE](https://github.com/Apollina/InnovationProject)
